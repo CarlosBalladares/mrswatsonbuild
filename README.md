@@ -9,5 +9,5 @@ A docker file to build the command line VST host Mrswatson in a docker conatiner
 
 ## Why is it necessary 
 While the original project has binaries, they don't work as expected. And it is best to build binaries for your plattform. 
-Making this Dockerfile took me 3 days of reading error logs and now it will take you copy+paste. Consider leaving a star if this is useful.
+Making this Dockerfile took me a few days of reading error logs and it will take you 1 copy+paste. Consider leaving a star if this is useful.
 
