@@ -4,8 +4,6 @@ This docker file will allow anyone to build MrsWatson in a docker continer with 
 
 https://github.com/teragonaudio/MrsWatson
 
-## What is this?
-A docker file to build the command line VST host Mrswatson in a docker conatiner.
 
 ## Why is it necessary 
 While the original project has binaries, they don't work as expected. And it is best to build binaries for your plattform. 
