@@ -6,6 +6,7 @@ https://github.com/teragonaudio/MrsWatson
 
 
 ## Why is it necessary 
-While the original project has binaries, they don't work as expected in a container. And it is best to build binaries for your plattform. 
+While the original project has binaries, they don't work as expected in a container.
+
 Consider leaving a star if this is useful or opening an issue if something is wrong or can be improved.
 
