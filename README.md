@@ -1,6 +1,6 @@
 # MrsWatson Build
 
-This docker file will allow anyone to build MrsWatson in a docker continer with debian stretch as base image. Feel free to extend it according to your needs.
+This docker file will allow anyone to build MrsWatson in a docker container with debian stretch as base image. Feel free to extend it according to your needs.
 
 https://github.com/teragonaudio/MrsWatson
 
